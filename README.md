@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning, c#, MySql, PowerBi, Python
 - 💞️ I’m looking to collaborate on develop projects with c# or create dashboards PowerBi
 - 📫 How to reach me cristiangrieth@gmail.com
+- Linkedin: linkedin.com/in/cristian-rieth-cr1
 
 <!---
 cristianrieth/cristianrieth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
