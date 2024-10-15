@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cristianrieth
-- 🌱 I’m currently learning, c#, MySql, PowerBi, Python, JavaScript, CSS, React.
 - 📫 How to reach me cristiangrieth@gmail.com
-- Linkedin: linkedin.com/in/cristian-rieth-cr1
+- Linkedin: linkedin.com/in/riethcristian
 
 <!---
 cristianrieth/cristianrieth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
